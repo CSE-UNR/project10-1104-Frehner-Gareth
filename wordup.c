@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define FILENAME "mystery.txt"
+#define FILENAME "word.txt"
 #define NUM_GUESSES 6
 #define WORD_LENGTH 5
 #define BUFFER 30
